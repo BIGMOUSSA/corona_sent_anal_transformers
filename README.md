@@ -1,5 +1,3 @@
-Certainly! Here's an improved version of your README file for the Git repository:
-
 # Tweet Sentiment Analysis
 
 This project utilizes a dataset from [Hugging Face Datasets](https://huggingface.co/datasets/argilla/twitter-coronavirus) to create a fine-tuned model based on the BERT Transformer for multi-class sentiment classification. The goal is to classify text/tweets into one of five sentiment classes:
